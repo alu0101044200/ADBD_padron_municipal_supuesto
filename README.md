@@ -17,6 +17,10 @@ Cada Entidad Local pertenecerá a un único Municipio. (?¿Articulo 46)
 
 Los municipios tendrán nombre propio y único. Y cada municipio pertenecera a una provincia. Las provincias contienen uno o más municipios.
 
+Los datos que recogen los municipios sobre una población debe ser única y no se duplicará en otro municipio, por que una persona no puede residir en dos municipios distintos.
+
+Los datos personales que recogerá el municipio acerca de la vecindad tendrá un carácter obligatorio y otro opcional. Aquellos datos de carácter obligatorio serán el nombre, 
+
 
 Municipios tiene limites, capitales.
 Municipio se organiza en comunidades y se puede dividir en secciones
