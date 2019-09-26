@@ -19,7 +19,7 @@ Los municipios tendrán nombre propio y único. Y cada municipio pertenecera a u
 
 Los datos que recogen los municipios sobre una población debe ser única y no se duplicará en otro municipio, por que una persona no puede residir en dos municipios distintos.
 
-Los datos personales que recogerá el municipio acerca de la vecindad tendrá un carácter obligatorio y otro opcional. Aquellos datos de carácter obligatorio serán el nombre, 
+Los datos personales que recogerá el municipio acerca de la vecindad tendrá un carácter obligatorio y otro opcional. Aquellos datos de carácter obligatorio serán el nombre, apellidos, Sexo, Domicilio habitual, Nacionalidad, Lugar y fecha de nacimiento,  Número  de  documento  nacional  de  identidad  o,  tratándose  de  extranjeros,  del documento que lo sustituya y Certificado o título escolar o académico que posea. EN cuanto a aquellos de carácter opcional se tratará del teléfono móvil y 
 
 
 Municipios tiene limites, capitales.
