@@ -4,9 +4,9 @@
     
   Con el fin de mantener actualizados y organizados los datos de la población española, se requiere la renovación de las bases de datos de cada municipio español. Para ello, en la primera reunión realizada hemos recogido los requisitos que debe seguir cada municipio.
 
-  Como primer requisito a destacar, cada municipio, con nombre propio y único, con el fin de no confundir datos recogidos de uno a otro; debe pertenecer a una provincia y cada provincia a una Comunidad Autónoma. 
+  Como primer requisito a destacar, cada municipio, con #nombre propio y único, con el fin de no confundir datos recogidos de uno a otro; debe pertenecer a una #provincia y cada provincia a una #Comunidad Autónoma. 
 
-  Los municipios estarán dotados de un ayuntamiento que se encargará de recopilar los datos de la vecindad. Además, pueden existir municipios que se dividan en Entidades Locales más pequeñas y estas serán las encargadas de recopilar dichos datos según su localización.
+  Los #municipios estarán dotados de un #ayuntamiento que se encargará de recopilar los datos de la vecindad. Además, pueden existir municipios que se dividan en Entidades Locales más pequeñas y estas serán las encargadas de recopilar dichos datos según su localización.
 
   Por tanto, cada municipio se encargará de recoger y guardar la información de toda persona que viva dentro de los límites de su territorio. Dicha información debe ser única para cada persona y no se podrá duplicar en otro municipio, debido a que una persona no puede vivir en dos municipios simultáneamente. En el caso de datos duplicados en un ayuntamiento, se deberá borrar hasta que solo permanezca una única vez en la base de datos.
 
